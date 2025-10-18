@@ -3,7 +3,6 @@ Chat Application with Web Search Tool Calling
 Demonstrates function calling with web search capabilities
 """
 
-
 import streamlit as st
 import sys
 import os
