@@ -3,7 +3,6 @@ Basic Chat Application with LiteLLM
 A simple chat interface demonstrating LLM integration with Streamlit
 """
 
-
 import streamlit as st
 import sys
 import os
