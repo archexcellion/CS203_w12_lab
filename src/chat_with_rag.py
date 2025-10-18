@@ -3,7 +3,6 @@ Chat Application with RAG (Retrieval Augmented Generation)
 Demonstrates document-based question answering with vector search
 """
 
-
 import streamlit as st
 import sys
 import os
